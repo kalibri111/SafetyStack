@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/StackSafetyCPP.dir/main.cpp.o  -o StackSafetyCPP 

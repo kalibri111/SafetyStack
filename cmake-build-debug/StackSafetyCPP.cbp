@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="StackSafetyCPP"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/kalibri/MIPT/1_sem/Dedinsky/StackSafetyCPP/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/StackSafetyCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/StackSafetyCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/StackSafetyCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/StackSafetyCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/kalibri/MIPT/1_sem/Dedinsky/StackSafetyCPP/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/StackSafetyCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/StackSafetyCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/StackSafetyCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/StackSafetyCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/kalibri/MIPT/1_sem/Dedinsky/StackSafetyCPP/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/StackSafetyCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/StackSafetyCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/StackSafetyCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/StackSafetyCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="StackSafetyCPP">
+				<Option output="/home/kalibri/MIPT/1_sem/Dedinsky/StackSafetyCPP/cmake-build-debug/StackSafetyCPP" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kalibri/MIPT/1_sem/Dedinsky/StackSafetyCPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/StackSafetyCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 StackSafetyCPP"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/StackSafetyCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/StackSafetyCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/StackSafetyCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="StackSafetyCPP/fast">
+				<Option output="/home/kalibri/MIPT/1_sem/Dedinsky/StackSafetyCPP/cmake-build-debug/StackSafetyCPP" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kalibri/MIPT/1_sem/Dedinsky/StackSafetyCPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/StackSafetyCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 StackSafetyCPP/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/StackSafetyCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/StackSafetyCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/StackSafetyCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/kalibri/MIPT/1_sem/Dedinsky/StackSafetyCPP/headers/decorator_safety.h">
+			<Option target="StackSafetyCPP"/>
+		</Unit>
+		<Unit filename="/home/kalibri/MIPT/1_sem/Dedinsky/StackSafetyCPP/headers/logger.h">
+			<Option target="StackSafetyCPP"/>
+		</Unit>
+		<Unit filename="/home/kalibri/MIPT/1_sem/Dedinsky/StackSafetyCPP/headers/safety_stuff.h">
+			<Option target="StackSafetyCPP"/>
+		</Unit>
+		<Unit filename="/home/kalibri/MIPT/1_sem/Dedinsky/StackSafetyCPP/headers/stack.h">
+			<Option target="StackSafetyCPP"/>
+		</Unit>
+		<Unit filename="/home/kalibri/MIPT/1_sem/Dedinsky/StackSafetyCPP/lib/htmlib.hpp">
+			<Option target="StackSafetyCPP"/>
+		</Unit>
+		<Unit filename="/home/kalibri/MIPT/1_sem/Dedinsky/StackSafetyCPP/main.cpp">
+			<Option target="StackSafetyCPP"/>
+		</Unit>
+		<Unit filename="/home/kalibri/MIPT/1_sem/Dedinsky/StackSafetyCPP/settings.h">
+			<Option target="StackSafetyCPP"/>
+		</Unit>
+		<Unit filename="/home/kalibri/MIPT/1_sem/Dedinsky/StackSafetyCPP/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
